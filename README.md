@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marty from fsociety</h1>
+<h1 align="center">Hi 👋, I'm Yakup from fsociety</h1>
 <h3 align="center">I am mobile app developer, cybersecurity and network engineer.</h3>
 
 - 🌱 I’m currently learning: **Docker, Kubernetes**
