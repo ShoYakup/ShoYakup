@@ -19,13 +19,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martyhacker&show_icons=true&locale=en&layout=compact" alt="martyhacker" /></p>
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=richxcame&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShoYakup&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShoYakup&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoYakup&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=richxcame&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ShoYakup&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
