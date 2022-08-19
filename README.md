@@ -18,6 +18,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martyhacker&show_icons=true&locale=en&layout=compact" alt="martyhacker" /></p>
 
+## 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=richxcame&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=richxcame&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
