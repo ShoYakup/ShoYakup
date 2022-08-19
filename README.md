@@ -1,1 +1,1 @@
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkmenistan.
+I am a Full Stack Developer <img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.webp" width="60"> from Turkmenistan.
