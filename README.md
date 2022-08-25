@@ -28,4 +28,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=ShoYakup&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=richxcame&label=Visitors+Count&color=brightgreen)
