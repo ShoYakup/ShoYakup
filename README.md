@@ -18,10 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martyhacker&show_icons=true&locale=en&layout=compact" alt="martyhacker" /></p>
 
-<!-- ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ShoYakup&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShoYakup&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoYakup&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+<!-- x -->
 
 
 ## 🏆 GitHub Trophies
@@ -31,4 +28,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=richxcame&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ShoYakup&label=Visitors+Count&color=brightgreen)
