@@ -7,9 +7,9 @@
 
 - 📫 How to reach me: **you can't catch me**
 
-- ⚡ Fun fact: **I think I am asocial** -->
+- ⚡ Fun fact: **I think I am asocial** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
