@@ -2,12 +2,12 @@
 <h3 align="center">I am mobile app developer, cybersecurity and network engineer.</h3>
 
 - 🌱 I’m currently learning: **Docker, Kubernetes**
-
+<!-- 
 - 💬 Ask me about: **nothing**
 
 - 📫 How to reach me: **you can't catch me**
 
-- ⚡ Fun fact: **I think I am asocial**
+- ⚡ Fun fact: **I think I am asocial** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
